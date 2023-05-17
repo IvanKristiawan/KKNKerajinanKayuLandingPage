@@ -1,21 +1,20 @@
 {
   "Header": {
     "title": "Sanggar Diponegoro",
-    "paragraph": "Seni Kerajinan Kayu. Loro Blonyo, Wayang Klithik, Wayang Golek, Topeng, dll."
+    "paragraph": "Seni Kerajinan Kayu. Loro Blonyo, Wayang Klithik, Wayang Golek, Topeng, dll. Berpusat di Kembang Putihan, Bantul, Yogyakarta."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Sanggar diponegoro berdiri tahun 1996, termasuk bisnis kerajinan tangan dengan produk berbahan kayu yang di cat maupun di batik. Sanggar diponegoro memproduksi kerajinan kayu batik sebagai berikut patung loro blonyo, topeng,gantungan kunci,nampan,tatakan gelas, rekal dll. Adapun produk best seller yg menonjol adalah LORO BLONYO. proses pengerjaan dalam produksi memakai cat air juga kayu batik tulis. Pemasaran produk area lokal, area Jawa dan Bali.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Pembuatan secara manual dan tradisional.",
+      "Bermacam-macam bentuk karya yg unik dan menarik.",
+      "Menggunakan bahan pilihan yang sudah diolah sehingga tidak mengalami proses jamur.",
+      "Mengutamankan kualitas produk dan kepuasan pelanggan khusus pecinta seni."
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Dalam proses nyungging menggunakan cat tembok dan Sandy.",
+      "Motif andalan adalah motif batik klasik (motif jaman dahulu).",
+      "Menerima motif sesuai permintaan pelanggan."
     ]
   },
   "Gallery": [
@@ -43,6 +42,26 @@
       "title": "Batik Kayu",
       "largeImage": "img/portfolio/batik-kayu.jpg",
       "smallImage": "img/portfolio/batik-kayu.jpg"
+    },
+    {
+      "title": "Gantungan Kunci",
+      "largeImage": "img/portfolio/gantungan-kunci.jpg",
+      "smallImage": "img/portfolio/gantungan-kunci.jpg"
+    },
+    {
+      "title": "Nampan",
+      "largeImage": "img/portfolio/nampan.jpg",
+      "smallImage": "img/portfolio/nampan.jpg"
+    },
+    {
+      "title": "Tatakan Gelas",
+      "largeImage": "img/portfolio/tatakan-gelas.jpg",
+      "smallImage": "img/portfolio/tatakan-gelas.jpg"
+    },
+    {
+      "title": "Rekal",
+      "largeImage": "img/portfolio/rekal.jpg",
+      "smallImage": "img/portfolio/rekal.jpg"
     }
   ],
   "Services": [
@@ -77,38 +96,16 @@
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     }
   ],
-  "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    }
-  ],
+  "Testimonials": {
+    "LocationPetinggi": [
+      {
+        "title": "Sanggar Diponegoro",
+        "linkGoogleMaps": "https://goo.gl/maps/V5USQsXUBLzdgMhi9",
+        "latitude": -7.863671881052443,
+        "longitude": 110.31789589899915
+      }
+    ]
+  },
   "Team": [
     {
       "img": "img/team/01.jpg",
@@ -135,7 +132,9 @@
     "address": "GOA Slarong, Kembang Putihan, RT.02 Guwosari Pajangan Bantul 55751. Yogyakarta Indonesia.",
     "phone": "0858 7633 5774",
     "email": "into_kuter@gmail.com",
-    "facebook": "fb.com",
+    "whatsapp": "https://wa.link/5y0v2g",
+    "instagram": "https://www.instagram.com/sanggar_diponegoro/",
+    "facebook": "https://www.facebook.com/sanggar.diponegoro.5/?locale=id_ID",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
